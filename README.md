@@ -1,7 +1,6 @@
 # QR CODE GENERATOR
 
 ```
-
 ooooo                                     oooooooooo.                               .oooooo.      ooooooooo.   
 `888'                                     `888'   `Y8b                             d8P'  `Y8b     `888   `Y88. 
  888          .ooooo.   .ooooo.  oooo d8b  888     888  .ooooo.  oooo    ooo      888      888     888   .d88' 
@@ -9,17 +8,11 @@ ooooo                                     oooooooooo.                           
  888         888ooo888 888ooo888  888      888    `88b 888   888    Y888'         888      888     888`88b.    
  888       o 888    .o 888    .o  888      888    .88P 888   888  .o8"'88b        `88b    d88b     888  `88b.  
 o888ooooood8 `Y8bod8P' `Y8bod8P' d888b    o888bood8P'  `Y8bod8P' o88'   888o       `Y8bood8P'Ybd' o888o  o888o 
-                                                                                                               
-                                                                                                               
-                                                                                                               
-
-                                                                                                                                 
+                                                                                                                                
 ```
 
 
 # How to use
-
-<span style="color:red">
  
 ```
 python3 QR.py
@@ -27,7 +20,7 @@ python3 QR.py
 Enter URL, Phone Number, or App Account to convert to QR code : https://x.com/RX3 
 
 ```
-</span>
+
 
 ![1](https://github.com/LeerBox/QR-Code-generator/assets/127865341/05357fa3-79dc-4a14-b550-2334e7735dce)
 
