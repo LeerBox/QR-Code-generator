@@ -18,10 +18,13 @@ Y88b.Y8b88P 888  T88b       Y88b  d88P Y88b. .d88P 888  .d88P 888
 
 
 # How to use
-`python3 QR.py`
 
-`Enter URL, Phone Number, or App Account to convert to QR code` `:` `https://x.com/RX3`
+```
+python3 QR.py
 
+Enter URL, Phone Number, or App Account to convert to QR code : https://x.com/RX3 
+
+```
 
 ![1](https://github.com/LeerBox/QR-Code-generator/assets/127865341/05357fa3-79dc-4a14-b550-2334e7735dce)
 
