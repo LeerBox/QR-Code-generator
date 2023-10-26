@@ -4,7 +4,8 @@ QR conversion
 # How to use
 `python3 QR.py`
 
-`Enter the URL or any string`
+`Enter the URL or any string` `:` `https://x.com/RX3`
+
 
 ![Screenshot 2023-10-26 024029](https://github.com/LeerBox/QR/assets/127865341/70d7342c-3a0b-403d-9732-336357673189)
 
