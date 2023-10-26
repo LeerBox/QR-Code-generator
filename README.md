@@ -1,5 +1,5 @@
 # QR
 QR conversion
-#python3 QR.py 
+# python3 QR.py 
 Enter the URL or any string
-#use your QR PIC
+# use your QR PIC
