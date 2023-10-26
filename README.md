@@ -1,14 +1,15 @@
 # QR CODE GENERATOR
 
-```
-ooooo                                     oooooooooo.                               .oooooo.      ooooooooo.   
-`888'                                     `888'   `Y8b                             d8P'  `Y8b     `888   `Y88. 
- 888          .ooooo.   .ooooo.  oooo d8b  888     888  .ooooo.  oooo    ooo      888      888     888   .d88' 
- 888         d88' `88b d88' `88b `888""8P  888oooo888' d88' `88b  `88b..8P'       888      888     888ooo88P'  
- 888         888ooo888 888ooo888  888      888    `88b 888   888    Y888'         888      888     888`88b.    
- 888       o 888    .o 888    .o  888      888    .88P 888   888  .o8"'88b        `88b    d88b     888  `88b.  
-o888ooooood8 `Y8bod8P' `Y8bod8P' d888b    o888bood8P'  `Y8bod8P' o88'   888o       `Y8bood8P'Ybd' o888o  o888o 
-                                                                                                                                
+```                                                                                                                                               
+  .g8""8q. `7MM"""Mq.        .g8"""bgd   .g8""8q. `7MM"""Yb. `7MM"""YMM  
+.dP'    `YM. MM   `MM.     .dP'     `M .dP'    `YM. MM    `Yb. MM    `7  
+dM'      `MM MM   ,M9      dM'       ` dM'      `MM MM     `Mb MM   d    
+MM        MM MMmmdM9       MM          MM        MM MM      MM MMmmMM    
+MM.      ,MP MM  YM.       MM.         MM.      ,MP MM     ,MP MM   Y  , 
+`Mb.    ,dP' MM   `Mb.     `Mb.     ,' `Mb.    ,dP' MM    ,dP' MM     ,M 
+  `"bmmd"' .JMML. .JMM.      `"bmmmd'    `"bmmd"' .JMMmmmdP' .JMMmmmmMMM 
+      MMb                                                                
+       `bood'                                                                                                                                                                                         
 ```
 
 
