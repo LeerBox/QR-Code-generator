@@ -1,15 +1,15 @@
 # QR CODE GENERATOR
 
 ```                                                                                                                                               
-  .g8""8q. `7MM"""Mq.        .g8"""bgd   .g8""8q. `7MM"""Yb. `7MM"""YMM  
-.dP'    `YM. MM   `MM.     .dP'     `M .dP'    `YM. MM    `Yb. MM    `7  
-dM'      `MM MM   ,M9      dM'       ` dM'      `MM MM     `Mb MM   d    
-MM        MM MMmmdM9       MM          MM        MM MM      MM MMmmMM    
-MM.      ,MP MM  YM.       MM.         MM.      ,MP MM     ,MP MM   Y  , 
-`Mb.    ,dP' MM   `Mb.     `Mb.     ,' `Mb.    ,dP' MM    ,dP' MM     ,M 
-  `"bmmd"' .JMML. .JMM.      `"bmmmd'    `"bmmd"' .JMMmmmdP' .JMMmmmmMMM 
-      MMb                                                                
-       `bood'                                                                                                                                                                                         
+ .d88888b.  8888888b.        .d8888b.   .d88888b.  8888888b.  8888888888 
+d88P" "Y88b 888   Y88b      d88P  Y88b d88P" "Y88b 888  "Y88b 888        
+888     888 888    888      888    888 888     888 888    888 888        
+888     888 888   d88P      888        888     888 888    888 8888888    
+888     888 8888888P"       888        888     888 888    888 888        
+888 Y8b 888 888 T88b        888    888 888     888 888    888 888        
+Y88b.Y8b88P 888  T88b       Y88b  d88P Y88b. .d88P 888  .d88P 888        
+ "Y888888"  888   T88b       "Y8888P"   "Y88888P"  8888888P"  8888888888 
+       Y8b                                                                                                                                                                                                                                                                                                              
 ```
 
 
