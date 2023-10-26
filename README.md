@@ -2,7 +2,7 @@
 QR conversion
 
 # How to use
-' python3 QR.py '
+`python3 QR.py`
 
 Enter the URL or any string
 
