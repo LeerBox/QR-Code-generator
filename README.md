@@ -1,5 +1,5 @@
-# QR
-QR conversion
+# QR conversion
+
 
 # How to use
 `python3 QR.py`
