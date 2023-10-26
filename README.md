@@ -14,12 +14,10 @@ o888ooooood8 `Y8bod8P' `Y8bod8P' d888b    o888bood8P'  `Y8bod8P' o88'   888o    
 
 # How to use
  
-```
-python3 QR.py
 
-Enter URL, Phone Number, or App Account to convert to QR code : https://x.com/RX3 
+### python3 QR.py
 
-```
+### Enter URL, Phone Number, or App Account to convert to QR code : https://x.com/RX3 
 
 
 ![1](https://github.com/LeerBox/QR-Code-generator/assets/127865341/05357fa3-79dc-4a14-b550-2334e7735dce)
